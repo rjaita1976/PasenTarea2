@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace PasenTarea2
 {
-    class ayuda_con_la_tarea
+    class NoVirus
     {
-        //flaco pasa la tarea
-
-
+        ///no pases tus virus Flako
     }
 }
